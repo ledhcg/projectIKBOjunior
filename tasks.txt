@@ -1,0 +1,36 @@
+I. Dự án chung
+  1. Tên dự án: Web giáo dục
+  2. Thời gian dự kiến: 2,5 tháng (Tùy tình hình công việc thực tế sẽ thay đổi)
+  3. Ngôn ngữ:
+    - PHP
+    - HTML/CSS
+    - Javascript
+  4. Chức năng
+    - Cho admin:
+      + Quản lý các bài tin
+      + Đăng tin cập nhật
+      + Đăng nhập, đăng ký
+    - Người dùng truy cập:
+      + Xem các bản tin 
+      + Thông tin về trường học
+II. Yêu cầu nhiệm vụ
+  1. Tìm hiểu về git và github để làm việc nhóm
+  2. Tìm hiểu về cấu trúc trang web (+ Responsive)
+  3. Tìm hiểu về các ngôn ngữ sử dụng (Đọc tutorial, online, youtube)
+    - Nếu chưa quen bất kỳ ngôn ngữ nào thì nên tìm hiểu HTML/CSS -> JS -> PHP
+  4. Tìm hiểu về ajax và tối ưu trải nghiệm người dùng
+  5. Tìm hiểu một số bảo mật cơ bản
+  6. CODE:
+    - Chia dự án thành 2 phần, phần người dùng và phần admin
+    - Code kỹ, nên có comment và kiểm tra lỗi phát sinh, tìm hiểu lỗi và tự khắc phục, nếu khó quá thì gọi anh (khuyên nên tìm hiểu kỹ và tự fix để dễ nhớ lỗi và khắc phục)
+    - Nên có ghi chú (Giấy hoặc file.docx) để ghi lại kiến thức học được, cách sửa lỗi mắc phải, hay các keyword tìm được trong quá trình học
+    - Chưa cần giao diện web phải đẹp nhưng cố gắng làm nghiêm túc
+ 
+ III. Một số framework/library có thể dùng
+ 
+ - Bootstrap (Hỗ trợ xây dựng giao diện) (Nên học css, sau này quen r thì dùng cái này tiện hơn và custom lại nó thôi)
+ - Fontawesome (Icon)
+ - GoogleFont (font)
+ 
+ IV. Ví dụ
+  - http://mireaweb.dinhcuong.me/
