@@ -31,6 +31,7 @@ II. Yêu cầu nhiệm vụ
  - Bootstrap (Hỗ trợ xây dựng giao diện) (Nên học css, sau này quen r thì dùng cái này tiện hơn và custom lại nó thôi)
  - Fontawesome (Icon)
  - GoogleFont (font)
+ - JQuery
  
  IV. Ví dụ
   - http://mireaweb.dinhcuong.me/
