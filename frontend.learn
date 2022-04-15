@@ -1,6 +1,21 @@
 I. Khóa học
   1. HTML/CSS
-    - Link: https://fullstack.edu.vn/courses/html-css
+    - Link1: https://fullstack.edu.vn/courses/html-css
+    - Link2 <HTML>: https://www.w3schools.com/html/default.asp
+    - Link2 <CSS>: https://www.w3schools.com/css/default.asp
   2. Javascript
-    - Link: https://fullstack.edu.vn/courses/javascript-co-ban
-  3. Học đi, học 2 cái trên )))) đừng tham quá, học cơ bản trước nhé, học xong rồi nói tiếp
+    - Link1: https://fullstack.edu.vn/courses/javascript-co-ban
+    - Link2: https://www.w3schools.com/js/default.asp
+  3. 
+      - Có thể học đồng thời hoặc chia lộ trình, tùy thời gian của bạn nhé. ( JS -> HTML -> CSS, or HTML -> CSS -> JS)
+      - Học đi, học link1 hay link2 cũng được, cơ bản giống nhau
+      - 1 cái thì video (dạy cái thường dùng nhất) , 1 cái thì liệt kê dạng tài liệu 
+      - Học link1 nhớ làm bài tập để nhớ nhé 
+      - Thực ra khác khóa tại fullstack.edu.vn đều có hết trên youtube nhưng nên học trên web để còn luyện bài tập và học nghiêm túc )))
+      - Đừng tham quá, học cơ bản trước nhé, học xong rồi nói tiếp
+      
+      Có thể xem qua nếu cần: https://school.coders-x.com/courses
+      
+II. Cài VSCODE để code.
+  1. Link tải: https://code.visualstudio.com/
+  2. Link hướng dẫn (Học bài 3 khóa Javascript là có video này): https://www.youtube.com/watch?v=efI98nT8Ffo
